@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:08:19.435981+00:00",
+  "updated": "2026-11-01T04:14:53.656752+00:00",
   "members": [
     {
       "name": "Ai",
@@ -728,6 +728,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@headless_oliver"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/headless_oliver"
         }
       ]
     },
@@ -818,6 +823,16 @@
           "platform": "discord",
           "label": "Discord",
           "url": "https://discord.gg/Sz9YGtW3SP"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/rayedemon"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/rayedemon99366/"
         }
       ]
     },
