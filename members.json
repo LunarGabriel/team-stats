@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:54:53.744945+00:00",
+  "updated": "2026-11-01T04:04:53.659128+00:00",
   "members": [
     {
       "name": "Ai",
@@ -183,6 +183,11 @@
           "platform": "altstream",
           "label": "Altstream",
           "url": "https://altstream.online/AsesinaTheOrca"
+        },
+        {
+          "platform": "vgen",
+          "label": "VGen",
+          "url": "https://vgen.co/OrcaDorka"
         }
       ]
     },
