@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:14:53.656752+00:00",
+  "updated": "2026-11-01T04:24:53.771201+00:00",
   "members": [
     {
       "name": "Ai",
@@ -113,6 +113,16 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@xcrossbite"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/xcrossbite/"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/xcrossbite"
         }
       ]
     },
@@ -123,6 +133,11 @@
           "platform": "twitch",
           "label": "Twitch",
           "url": "https://twitch.tv/devfromosu"
+        },
+        {
+          "platform": "twitter",
+          "label": "X",
+          "url": "https://x.com/devfromosu"
         }
       ]
     },
@@ -278,6 +293,11 @@
           "platform": "discord",
           "label": "Discord",
           "url": "https://discord.gg/579snXkrWt"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/frettyjay"
         }
       ]
     },
@@ -308,6 +328,16 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@glitchmaus"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/glitchmaus"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/glitchmaus/"
         }
       ]
     },
@@ -373,6 +403,16 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@greenfledgling"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/greenfledgling"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/greenfledgling/shop/"
         }
       ]
     },
@@ -398,6 +438,16 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@dragonickittens"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/dragonickittens/"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/dragonickittens"
         }
       ]
     },
@@ -488,6 +538,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@kyrieai"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/kyrieai"
         }
       ]
     },
@@ -673,6 +728,16 @@
           "platform": "twitter",
           "label": "X",
           "url": "https://x.com/LadyNymueVT"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/ladynymuevt"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/ladynymue"
         }
       ]
     },
@@ -883,6 +948,11 @@
           "platform": "twitter",
           "label": "X",
           "url": "https://x.com/rockr230_808"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/rockr230"
         }
       ]
     },
@@ -928,6 +998,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@_septaskull_"
+        },
+        {
+          "platform": "streamlabs",
+          "label": "Streamlabs",
+          "url": "https://streamlabs.com/septaskull/tip"
         }
       ]
     },
@@ -968,6 +1043,11 @@
           "platform": "twitter",
           "label": "X",
           "url": "https://x.com/OozeGods"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/slimegods"
         }
       ]
     },
