@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:31:33.757247+00:00",
+  "updated": "2026-11-01T03:54:53.744945+00:00",
   "members": [
     {
       "name": "Ai",
@@ -30,14 +30,14 @@
           "url": "https://twitch.tv/alklaine"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@Alklaine"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/alklaine.live"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@Alklaine"
         },
         {
           "platform": "twitter",
@@ -95,14 +95,14 @@
           "url": "https://twitch.tv/xcrossbite"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@xCrossBite"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/xcrossbite.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@xCrossBite"
         },
         {
           "platform": "twitter",
@@ -135,14 +135,14 @@
           "url": "https://twitch.tv/disaace"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@disaace"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/disaace.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@disaace"
         },
         {
           "platform": "tiktok",
@@ -160,14 +160,14 @@
           "url": "https://twitch.tv/asesinatheorca"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@AsesinaOrcinusVTuberEN"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/asesinatheorca.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@AsesinaOrcinusVTuberEN"
         },
         {
           "platform": "twitter",
@@ -178,6 +178,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@asesinathevtuber"
+        },
+        {
+          "platform": "altstream",
+          "label": "Altstream",
+          "url": "https://altstream.online/AsesinaTheOrca"
         }
       ]
     },
@@ -190,14 +195,14 @@
           "url": "https://twitch.tv/ijdragonfly"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@ijdragonfly"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/ijdragonfly.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@ijdragonfly"
         },
         {
           "platform": "tiktok",
@@ -215,14 +220,14 @@
           "url": "https://twitch.tv/excaliburvt_en"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@ExcaliburVT_en"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/excaliburvt.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@ExcaliburVT_en"
         },
         {
           "platform": "twitter",
@@ -245,14 +250,14 @@
           "url": "https://twitch.tv/frettyvt"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@frettyjay"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/fretty.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@frettyjay"
         },
         {
           "platform": "twitter",
@@ -263,6 +268,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@frettyjay"
+        },
+        {
+          "platform": "discord",
+          "label": "Discord",
+          "url": "https://discord.gg/579snXkrWt"
         }
       ]
     },
@@ -275,14 +285,14 @@
           "url": "https://twitch.tv/glitchmaus"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@glitchmausvods"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/glitchmaus.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@glitchmausvods"
         },
         {
           "platform": "twitter",
@@ -305,14 +315,14 @@
           "url": "https://twitch.tv/grave_phase"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@GravePhase"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/gravevt.vtubers.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@GravePhase"
         },
         {
           "platform": "twitter",
@@ -323,6 +333,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@grave_phase"
+        },
+        {
+          "platform": "altstream",
+          "label": "Altstream",
+          "url": "https://altstream.online/grave_phase"
         }
       ]
     },
@@ -335,14 +350,14 @@
           "url": "https://twitch.tv/greenfledgling"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@greenfledgling"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/greenfledgling.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@greenfledgling"
         },
         {
           "platform": "twitter",
@@ -390,14 +405,14 @@
           "url": "https://twitch.tv/koziet"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@catokoziet"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/catokoziet.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@catokoziet"
         },
         {
           "platform": "twitter",
@@ -415,14 +430,14 @@
           "url": "https://twitch.tv/krahazik"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@Krahazik"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/krahazik.com"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@Krahazik"
         },
         {
           "platform": "twitter",
@@ -433,6 +448,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@krahazik"
+        },
+        {
+          "platform": "altstream",
+          "label": "Altstream",
+          "url": "https://altstream.online/Krahazik"
         }
       ]
     },
@@ -445,14 +465,14 @@
           "url": "https://twitch.tv/kyrieai"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@kyrieai"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/kyrieai.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@kyrieai"
         },
         {
           "platform": "twitter",
@@ -475,14 +495,14 @@
           "url": "https://twitch.tv/lunargabriel"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@lunargabriel"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/lunargabriel.stream"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@lunargabriel"
         },
         {
           "platform": "twitter",
@@ -493,6 +513,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@lunargabriel"
+        },
+        {
+          "platform": "altstream",
+          "label": "Altstream",
+          "url": "https://altstream.online/lunargabriel"
         }
       ]
     },
@@ -505,14 +530,14 @@
           "url": "https://twitch.tv/illuxiem"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@Illuxiem"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/illuxiem.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@Illuxiem"
         },
         {
           "platform": "twitter",
@@ -535,14 +560,14 @@
           "url": "https://twitch.tv/mitchiehano"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@MitchikoHano"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/mitchiehano.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@MitchikoHano"
         },
         {
           "platform": "twitter",
@@ -565,14 +590,14 @@
           "url": "https://twitch.tv/mrpigtato"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@MrPigtato"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/mrpigtato.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@MrPigtato"
         },
         {
           "platform": "tiktok",
@@ -590,14 +615,14 @@
           "url": "https://twitch.tv/gamingnavivt"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@gamingnavi"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/gamingnavi.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@gamingnavi"
         },
         {
           "platform": "twitter",
@@ -615,14 +640,14 @@
           "url": "https://twitch.tv/ladynymue"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@LadyNymueVT"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/ladynymue.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@LadyNymueVT"
         },
         {
           "platform": "twitter",
@@ -640,14 +665,14 @@
           "url": "https://twitch.tv/nyxiumnightingale"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@NyxiumNightingale"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/drowsyvt.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@NyxiumNightingale"
         },
         {
           "platform": "twitter",
@@ -715,14 +740,14 @@
           "url": "https://twitch.tv/avtpolarbear"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@AVTPolarBear"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/avtpolarbear.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@AVTPolarBear"
         },
         {
           "platform": "twitter",
@@ -745,14 +770,14 @@
           "url": "https://twitch.tv/rayedemon"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@rayedemon"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/rayedemon.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@rayedemon"
         },
         {
           "platform": "twitter",
@@ -763,6 +788,16 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@rayedemon"
+        },
+        {
+          "platform": "altstream",
+          "label": "Altstream",
+          "url": "https://altstream.online/RayeDemon"
+        },
+        {
+          "platform": "discord",
+          "label": "Discord",
+          "url": "https://discord.gg/Sz9YGtW3SP"
         }
       ]
     },
@@ -775,14 +810,14 @@
           "url": "https://twitch.tv/spectreivt"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@nanashinight"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/spectreivt.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@nanashinight"
         },
         {
           "platform": "twitter",
@@ -825,14 +860,14 @@
           "url": "https://twitch.tv/just_ros__"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@just_ros__"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/justros.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@just_ros__"
         }
       ]
     },
@@ -885,14 +920,14 @@
           "url": "https://twitch.tv/slimegods"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@SlimeGods"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/slimegods.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@SlimeGods"
         },
         {
           "platform": "twitter",
@@ -910,14 +945,14 @@
           "url": "https://twitch.tv/blkspidey"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@blkspidey_on_twitch"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/blkspidey.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@blkspidey_on_twitch"
         },
         {
           "platform": "twitter",
@@ -928,6 +963,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@blkspidey_on_twitch"
+        },
+        {
+          "platform": "altstream",
+          "label": "Altstream",
+          "url": "https://altstream.online/Blkspidey"
         }
       ]
     },
@@ -940,14 +980,14 @@
           "url": "https://twitch.tv/tedturtle21"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@tedturtle21"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/tedturtle21.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@tedturtle21"
         },
         {
           "platform": "twitter",
@@ -958,6 +998,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@tedturtle21"
+        },
+        {
+          "platform": "discord",
+          "label": "Discord",
+          "url": "https://discord.gg/XGUZHC2AX5"
         }
       ]
     },
@@ -970,14 +1015,14 @@
           "url": "https://twitch.tv/tempestsenseich"
         },
         {
-          "platform": "youtube",
-          "label": "YouTube",
-          "url": "https://youtube.com/@tempestch.1506"
-        },
-        {
           "platform": "bluesky",
           "label": "Bluesky",
           "url": "https://bsky.app/profile/tempestsensei.bsky.social"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@tempestch.1506"
         },
         {
           "platform": "twitter",
