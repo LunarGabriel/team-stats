@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:24:53.771201+00:00",
+  "updated": "2026-11-01T04:34:53.661353+00:00",
   "members": [
     {
       "name": "Ai",
@@ -63,6 +63,21 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@luckyamuletofficial"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/luckyamulet"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@luckyamulet01"
+        },
+        {
+          "platform": "youtube",
+          "label": "YouTube",
+          "url": "https://youtube.com/@luckyamulet01"
         }
       ]
     },
@@ -373,6 +388,11 @@
           "platform": "altstream",
           "label": "Altstream",
           "url": "https://altstream.online/grave_phase"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/gravevt"
         }
       ]
     },
@@ -508,6 +528,31 @@
           "platform": "altstream",
           "label": "Altstream",
           "url": "https://altstream.online/Krahazik"
+        },
+        {
+          "platform": "website",
+          "label": "krahazik.com",
+          "url": "https://krahazik.com/"
+        },
+        {
+          "platform": "fansly",
+          "label": "Fansly",
+          "url": "https://fansly.com/Krahazik/posts/"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/krahazik/"
+        },
+        {
+          "platform": "website",
+          "label": "joystick.tv",
+          "url": "https://joystick.tv/u/krahazik/"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/krahazik"
         }
       ]
     },
@@ -653,6 +698,36 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@mitchiehano"
+        },
+        {
+          "platform": "instagram",
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mitchiehano/"
+        },
+        {
+          "platform": "fansly",
+          "label": "Fansly",
+          "url": "https://fansly.com/QueenKuroNekoTengu/posts"
+        },
+        {
+          "platform": "website",
+          "label": "threads.com",
+          "url": "https://www.threads.com/@mitchiehano/"
+        },
+        {
+          "platform": "tumblr",
+          "label": "Tumblr",
+          "url": "https://www.tumblr.com/mitchiehano/"
+        },
+        {
+          "platform": "website",
+          "label": "mitchiehano.carrd.co",
+          "url": "https://mitchiehano.carrd.co/"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/mitchikohano/"
         }
       ]
     },
@@ -818,6 +893,26 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@its_penni"
+        },
+        {
+          "platform": "tumblr",
+          "label": "Tumblr",
+          "url": "https://www.tumblr.com/dumbbunnyjuliet/"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/itspenni"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/itspenni/"
+        },
+        {
+          "platform": "website",
+          "label": "itspenni.carrd.co",
+          "url": "https://itspenni.carrd.co/"
         }
       ]
     },
@@ -973,6 +1068,16 @@
           "platform": "youtube",
           "label": "YouTube",
           "url": "https://youtube.com/@just_ros__"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/just_ros__"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/just_ros__/"
         }
       ]
     },
@@ -1083,6 +1188,16 @@
           "platform": "altstream",
           "label": "Altstream",
           "url": "https://altstream.online/Blkspidey"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/blkspidey"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/blkspidey/"
         }
       ]
     },
@@ -1118,6 +1233,11 @@
           "platform": "discord",
           "label": "Discord",
           "url": "https://discord.gg/XGUZHC2AX5"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/tedturtle21"
         }
       ]
     },
@@ -1148,6 +1268,11 @@
           "platform": "tiktok",
           "label": "TikTok",
           "url": "https://tiktok.com/@tempestsenseich"
+        },
+        {
+          "platform": "throne",
+          "label": "Throne",
+          "url": "https://throne.com/tempestsensei"
         }
       ]
     }
