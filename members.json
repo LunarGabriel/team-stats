@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:09:35.119431+00:00",
+  "updated": "2026-11-02T03:29:35.121836+00:00",
   "members": [
     {
       "name": "Ai",
@@ -447,7 +447,8 @@
           "label": "Ko-fi",
           "url": "https://ko-fi.com/greenfledgling/shop/"
         }
-      ]
+      ],
+      "pronouns": "She/Her"
     },
     {
       "name": "Kit",
