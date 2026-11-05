@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T19:47:11.619890+00:00",
+  "generated": "2026-11-05T20:22:22.365123+00:00",
   "events": [
     {
       "title": "🎲 Community Night – Golf with your Friends (Hosted by Lunar)",
@@ -36,7 +36,7 @@
       "title": "Team Collab – No Man's Sky (Hosted by TedTurtle 21)",
       "type": "team_collab",
       "type_label": "Team Collab",
-      "emoji": "🤝",
+      "emoji": "👥",
       "start": "2026-11-14T00:00:00+00:00",
       "end": "2026-11-14T02:00:00+00:00",
       "live": false,
@@ -65,7 +65,7 @@
       "title": "Team Collab – Broke Wizards (Hosted by TedTurtle 21)",
       "type": "team_collab",
       "type_label": "Team Collab",
-      "emoji": "🤝",
+      "emoji": "👥",
       "start": "2026-11-21T00:00:00+00:00",
       "end": "2026-11-21T02:00:00+00:00",
       "live": false,
