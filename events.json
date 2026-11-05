@@ -1,0 +1,78 @@
+{
+  "generated": "2026-11-05T17:32:24.076068+00:00",
+  "events": [
+    {
+      "title": "🎲 Community Night – Golf with your Friends (Hosted by Lunar)",
+      "type": "community_night",
+      "type_label": "Community Night",
+      "emoji": "🎲",
+      "start": "2026-11-08T03:30:00+00:00",
+      "end": "2026-11-08T05:30:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Lunar",
+        "twitch": "https://www.twitch.tv/lunargabriel",
+        "sticker": "stickers/lunar.png?v=c26db41e5af8"
+      },
+      "image": "https://cdn.discordapp.com/guild-events/1563608957896097793/b604fb05260794a9a5e3cce22c66bd54.png?size=512"
+    },
+    {
+      "title": "Team Collab – No Man's Sky (Hosted by TedTurtle 21)",
+      "type": "team_collab",
+      "type_label": "Team Collab",
+      "emoji": "🤝",
+      "start": "2026-11-14T00:00:00+00:00",
+      "end": "2026-11-14T02:00:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Ted",
+        "twitch": "https://www.twitch.tv/tedturtle21",
+        "sticker": "stickers/ted.png?v=b8d39346f970"
+      }
+    },
+    {
+      "title": "🎲 Community Night – Big Walk (Hosted by Grave)",
+      "type": "community_night",
+      "type_label": "Community Night",
+      "emoji": "🎲",
+      "start": "2026-11-15T00:00:00+00:00",
+      "end": "2026-11-15T02:00:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Grave",
+        "twitch": "https://www.twitch.tv/grave_phase",
+        "sticker": "stickers/grave.png?v=f42506573bd0"
+      },
+      "image": "https://cdn.discordapp.com/guild-events/1564687339253399723/3a2aa595acef2458e134abc273847c0b.png?size=512"
+    },
+    {
+      "title": "Team Collab – Broke Wizards (Hosted by TedTurtle 21)",
+      "type": "team_collab",
+      "type_label": "Team Collab",
+      "emoji": "🤝",
+      "start": "2026-11-21T00:00:00+00:00",
+      "end": "2026-11-21T02:00:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Ted",
+        "twitch": "https://www.twitch.tv/tedturtle21",
+        "sticker": "stickers/ted.png?v=b8d39346f970"
+      }
+    },
+    {
+      "title": "🎲 Community Night – Sledding Game (Hosted by Lunar)",
+      "type": "community_night",
+      "type_label": "Community Night",
+      "emoji": "🎲",
+      "start": "2026-11-23T00:30:00+00:00",
+      "end": "2026-11-23T02:30:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Lunar",
+        "twitch": "https://www.twitch.tv/lunargabriel",
+        "sticker": "stickers/lunar.png?v=c26db41e5af8"
+      },
+      "image": "https://cdn.discordapp.com/guild-events/1563609529013239858/81bb097e92ee4567545e6224439f33d7.png?size=512"
+    }
+  ]
+}
