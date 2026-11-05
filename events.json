@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T18:12:20.038338+00:00",
+  "generated": "2026-11-05T18:26:44.599622+00:00",
   "events": [
     {
       "title": "🎲 Community Night – Golf with your Friends (Hosted by Lunar)",
@@ -15,6 +15,22 @@
         "sticker": "stickers/lunar.png?v=c26db41e5af8"
       },
       "image": "https://cdn.discordapp.com/guild-events/1563608957896097793/b604fb05260794a9a5e3cce22c66bd54.png?size=512"
+    },
+    {
+      "title": "🌟 Charity Stream – Ami 🍀",
+      "type": "announcement",
+      "type_label": "Event",
+      "emoji": "📅",
+      "start": "2026-11-09T20:00:00+00:00",
+      "end": "2026-11-26T07:45:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Ami",
+        "twitch": "https://www.twitch.tv/luckyamulet",
+        "sticker": "stickers/ami.png?v=03741bde9474"
+      },
+      "charity": true,
+      "donate": "https://tiltify.com/@luckyamulet/fundraiser-for-stack-ups-call-to-arms-2026"
     },
     {
       "title": "Team Collab – No Man's Sky (Hosted by TedTurtle 21)",
