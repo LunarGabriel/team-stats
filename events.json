@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T17:51:10.325926+00:00",
+  "generated": "2026-11-05T18:12:20.038338+00:00",
   "events": [
     {
       "title": "🎲 Community Night – Golf with your Friends (Hosted by Lunar)",
@@ -87,6 +87,8 @@
         "twitch": "https://www.twitch.tv/lunargabriel",
         "sticker": "stickers/lunar.png?v=c26db41e5af8"
       },
+      "charity": true,
+      "donate": "https://tiltify.com/+thegremlinsquad/12-days-of-gremlins",
       "image": "https://cdn.discordapp.com/guild-events/1567959232756850738/1fcd4e26eb596c8c58958ea3dcdfbca0.png?size=512"
     }
   ]
