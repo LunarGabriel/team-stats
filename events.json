@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T01:58:53.419479+00:00",
+  "generated": "2026-11-06T04:27:55.330375+00:00",
   "events": [
     {
       "title": "🎲 Community Night – Golf with your Friends (Hosted by Lunar)",
@@ -104,5 +104,6 @@
         "sticker": "stickers/ai.png?v=8f8be78b9fd9"
       }
     }
-  ]
+  ],
+  "charity_streams": []
 }
