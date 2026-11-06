@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T20:22:22.365123+00:00",
+  "generated": "2026-11-06T01:58:53.419479+00:00",
   "events": [
     {
       "title": "🎲 Community Night – Golf with your Friends (Hosted by Lunar)",
@@ -89,23 +89,6 @@
         "sticker": "stickers/lunar.png?v=c26db41e5af8"
       },
       "image": "https://cdn.discordapp.com/guild-events/1563609529013239858/81bb097e92ee4567545e6224439f33d7.png?size=512"
-    },
-    {
-      "title": "12 Days of Gremlins Charity Event",
-      "type": "event",
-      "type_label": "Event",
-      "emoji": "📅",
-      "start": "2026-12-01T12:00:00+00:00",
-      "end": "2026-12-13T05:45:00+00:00",
-      "live": false,
-      "host": {
-        "name": "Lunar",
-        "twitch": "https://www.twitch.tv/lunargabriel",
-        "sticker": "stickers/lunar.png?v=c26db41e5af8"
-      },
-      "charity": true,
-      "donate": "https://tiltify.com/+thegremlinsquad/12-days-of-gremlins",
-      "image": "https://cdn.discordapp.com/guild-events/1567959232756850738/1fcd4e26eb596c8c58958ea3dcdfbca0.png?size=512"
     },
     {
       "title": "Ai's New Upgrade & Redebut!",
