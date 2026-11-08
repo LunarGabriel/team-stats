@@ -65,6 +65,17 @@
       ]
     },
     {
+      "id": "10eef558-20261114",
+      "game": "Stream Train",
+      "title": "Stream Train",
+      "kind": "collab",
+      "start": "2026-11-14T20:30:00-06:00",
+      "end": "2026-11-14T22:30:00-06:00",
+      "stickers": [
+        "stickers/Glitch.png"
+      ]
+    },
+    {
       "id": "58efad3e-20261116",
       "game": "Project Zomboid",
       "title": "Zomboid with the Squad!",
