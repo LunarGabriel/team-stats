@@ -15,6 +15,19 @@
       ]
     },
     {
+      "id": "176d7a80-20261108",
+      "game": "Left 4 Dead 2",
+      "title": "Being Left 4 Dead",
+      "kind": "collab",
+      "start": "2026-11-08T18:30:00-06:00",
+      "end": "2026-11-08T20:30:00-06:00",
+      "stickers": [
+        "stickers/Raye.png",
+        "stickers/Green.png",
+        "stickers/Ai.png"
+      ]
+    },
+    {
       "id": "58efad3e-20261109",
       "game": "Project Zomboid",
       "title": "Zomboid with the Squad!",
