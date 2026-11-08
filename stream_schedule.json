@@ -130,6 +130,19 @@
       ]
     },
     {
+      "id": "5cabd61a-20261124",
+      "game": "Ghost Exorcism Inc.",
+      "title": "Exorcising ghosts",
+      "kind": "collab",
+      "start": "2026-11-24T21:30:00-06:00",
+      "end": "2026-11-24T23:30:00-06:00",
+      "stickers": [
+        "stickers/Septa.png",
+        "stickers/Mr. P.png",
+        "stickers/Lux.png"
+      ]
+    },
+    {
       "id": "58efad3e-20261130",
       "game": "Project Zomboid",
       "title": "Zomboid with the Squad!",
