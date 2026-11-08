@@ -68,6 +68,20 @@
       ]
     },
     {
+      "id": "bf393b36-20261119",
+      "game": "Depth",
+      "title": "Becoming SHORK",
+      "kind": "collab",
+      "start": "2026-11-19T20:30:00-06:00",
+      "end": "2026-11-19T22:30:00-06:00",
+      "stickers": [
+        "stickers/callygator.png",
+        "stickers/Cross.png",
+        "stickers/Mitchie.png",
+        "stickers/Oliver.png"
+      ]
+    },
+    {
       "id": "58efad3e-20261123",
       "game": "Project Zomboid",
       "title": "Zomboid with the Squad!",
