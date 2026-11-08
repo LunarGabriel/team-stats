@@ -42,6 +42,18 @@
       ]
     },
     {
+      "id": "1976c34f-20261110",
+      "game": "Lethal Company",
+      "title": "Time to get Lethal",
+      "kind": "collab",
+      "start": "2026-11-10T20:30:00-06:00",
+      "end": "2026-11-10T22:30:00-06:00",
+      "stickers": [
+        "stickers/Spidey.png",
+        "stickers/Ami.png"
+      ]
+    },
+    {
       "id": "58efad3e-20261116",
       "game": "Project Zomboid",
       "title": "Zomboid with the Squad!",
