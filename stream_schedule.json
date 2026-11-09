@@ -1,20 +1,6 @@
 {
   "events": [
     {
-      "id": "a3709459-20261107",
-      "game": "Golf with your Friends",
-      "title": "Golf with Gremlins!",
-      "kind": "collab",
-      "start": "2026-11-07T21:30:00-06:00",
-      "end": "2026-11-07T23:30:00-06:00",
-      "stickers": [
-        "stickers/Raye.png",
-        "stickers/Mr. P.png",
-        "stickers/Tempest.png",
-        "stickers/Polar.png"
-      ]
-    },
-    {
       "id": "176d7a80-20261108",
       "game": "Left 4 Dead 2",
       "title": "Being Left 4 Dead",
