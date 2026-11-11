@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T21:00:40.589092+00:00",
+  "generated": "2026-11-11T21:28:26.287177+00:00",
   "events": [
     {
       "title": "Stack Up Call to Arms Charity Event – Ami 🍀",
@@ -88,6 +88,21 @@
         "twitch": "https://www.twitch.tv/a_i_42",
         "sticker": "stickers/ai.png?v=8f8be78b9fd9"
       }
+    },
+    {
+      "title": "🎲 Community Night – Sledding Game (Hosted by Lunar)",
+      "type": "community_night",
+      "type_label": "Community Night",
+      "emoji": "🎲",
+      "start": "2026-12-07T00:00:00+00:00",
+      "end": "2026-12-07T02:00:00+00:00",
+      "live": false,
+      "host": {
+        "name": "Lunar",
+        "twitch": "https://www.twitch.tv/lunargabriel",
+        "sticker": "stickers/lunar.png?v=c26db41e5af8"
+      },
+      "image": "https://cdn.discordapp.com/guild-events/1570188307042672751/7c6509199dbfcf09cb5c69e5474ca9ac.png?size=512"
     }
   ],
   "charity_streams": []
