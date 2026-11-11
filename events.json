@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T18:00:43.614276+00:00",
+  "generated": "2026-11-11T21:00:40.589092+00:00",
   "events": [
     {
       "title": "Stack Up Call to Arms Charity Event – Ami 🍀",
@@ -16,21 +16,6 @@
       },
       "charity": true,
       "donate": "https://tiltify.com/@luckyamulet/fundraiser-for-stack-ups-call-to-arms-2026"
-    },
-    {
-      "title": "Ami 🍀 - Co-streaming the Golden Joystick Awards 2026 !!!",
-      "type": "event",
-      "type_label": "Event",
-      "emoji": "📅",
-      "start": "2026-11-11T18:00:00+00:00",
-      "end": "2026-11-11T21:00:00+00:00",
-      "live": true,
-      "host": {
-        "name": "Ami",
-        "twitch": "https://www.twitch.tv/luckyamulet",
-        "sticker": "stickers/ami.png?v=03741bde9474"
-      },
-      "image": "https://cdn.discordapp.com/guild-events/1569455987889414184/997efd9001455a93f1ed6fce3743f1c3.png?size=512"
     },
     {
       "title": "Team Collab – No Man's Sky (Hosted by TedTurtle 21)",
