@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-13T22:13:27.078966+00:00",
+  "updated": "2026-11-13T22:14:11.465615+00:00",
   "week": "2026-W46",
   "main_url": "https://throne.com/lunargabriel",
-  "total": 0,
-  "items": []
+  "total": 1,
+  "items": [
+    {
+      "name": "Plushie Corner Hammock",
+      "url": "https://throne.com/lunargabriel/item/1717c29a-cbba-48fb-a351-531706583021",
+      "image": "https://m.media-amazon.com/images/I/81DM12fBhPL._SY500_.jpg",
+      "price": "$14.33",
+      "original": null,
+      "discount": 0
+    }
+  ]
 }
