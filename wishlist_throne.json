@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-13T22:19:27.803367+00:00",
+  "updated": "2026-11-13T22:19:57.312314+00:00",
   "week": "2026-W46",
   "main_url": "https://throne.com/lunargabriel",
-  "total": 3,
+  "total": 4,
   "items": [
     {
       "name": "Plushie Corner Hammock",
@@ -25,6 +25,14 @@
       "url": "https://throne.com/lunargabriel/item/b67bc322-5564-478c-a67d-40c7fd43776a",
       "image": "https://cdn.throne.com/wishlistItems/b67bc322-5564-478c-a67d-40c7fd43776a/d16e0ab0-1284-4a9c-847f-49a31040402f.webp?version=1776183389427",
       "price": "$52.94",
+      "original": null,
+      "discount": 0
+    },
+    {
+      "name": "1000 Worms",
+      "url": "https://throne.com/lunargabriel/item/086f7858-dc0d-465c-8017-30e12278faca",
+      "image": "https://m.media-amazon.com/images/I/815r81jXxtL._SY500_.jpg",
+      "price": "$58.40",
       "original": null,
       "discount": 0
     }
