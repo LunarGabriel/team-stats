@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T02:00:48.192753+00:00",
+  "generated": "2026-11-15T08:02:30.260752+00:00",
   "events": [
     {
       "title": "Stack Up Call to Arms Charity Event – Ami 🍀",
@@ -16,21 +16,6 @@
       },
       "charity": true,
       "donate": "https://tiltify.com/@luckyamulet/fundraiser-for-stack-ups-call-to-arms-2026"
-    },
-    {
-      "title": "🎲 Community Night – Big Walk (Hosted by Grave)",
-      "type": "community_night",
-      "type_label": "Community Night",
-      "emoji": "🎲",
-      "start": "2026-11-15T00:00:00+00:00",
-      "end": "2026-11-15T02:00:00+00:00",
-      "live": false,
-      "host": {
-        "name": "Grave",
-        "twitch": "https://www.twitch.tv/grave_phase",
-        "sticker": "stickers/grave.png?v=f42506573bd0"
-      },
-      "image": "https://cdn.discordapp.com/guild-events/1564687339253399723/3a2aa595acef2458e134abc273847c0b.png?size=512"
     },
     {
       "title": "Team Collab – Broke Wizards (Hosted by TedTurtle 21)",
