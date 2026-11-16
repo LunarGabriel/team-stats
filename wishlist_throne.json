@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-13T22:38:37.034096+00:00",
-  "week": "2026-W46",
+  "updated": "2026-11-16T10:33:47.802534+00:00",
+  "week": "2026-W47",
   "main_url": "https://throne.com/lunargabriel",
   "total": 9,
   "items": [
     {
-      "name": "Plushie Corner Hammock",
-      "url": "https://throne.com/lunargabriel/item/1717c29a-cbba-48fb-a351-531706583021",
-      "image": "https://m.media-amazon.com/images/I/81DM12fBhPL._SY500_.jpg",
-      "price": "$14.33",
+      "name": "Humidifier",
+      "url": "https://throne.com/lunargabriel/item/cbb5edb9-6977-471e-a987-5480dcf9e076",
+      "image": "https://m.media-amazon.com/images/I/61al1TWkWkL._SY500_.jpg",
+      "price": "$25.36",
       "original": null,
       "discount": 0
     },
     {
-      "name": "Wishbone Dog Toy",
-      "url": "https://throne.com/lunargabriel/item/f30a58df-c15d-49ac-aa1d-d63ea58ac232",
-      "image": "https://m.media-amazon.com/images/I/71fKSebqrZL._SY500_.jpg",
-      "price": "$14.10",
+      "name": "Fishbone Dog Toy",
+      "url": "https://throne.com/lunargabriel/item/32d9d113-b3ac-4828-b636-731581af9be0",
+      "image": "https://m.media-amazon.com/images/I/7139XZutCML._SY500_.jpg",
+      "price": "$12.11",
       "original": null,
       "discount": 0
     },
     {
-      "name": "Trans Pride Bat",
-      "url": "https://throne.com/lunargabriel/item/b67bc322-5564-478c-a67d-40c7fd43776a",
-      "image": "https://cdn.throne.com/wishlistItems/b67bc322-5564-478c-a67d-40c7fd43776a/d16e0ab0-1284-4a9c-847f-49a31040402f.webp?version=1776183389427",
-      "price": "$52.94",
+      "name": "Pride Shark Plushie",
+      "url": "https://throne.com/lunargabriel/item/2af7ae5c-7d9e-4668-a5e9-c4da1350281c",
+      "image": "https://cdn.throne.com/wishlistItems/RLbNF6Vgqfc4XaiGbdyV1t3GMi92/2af7ae5c-7d9e-4668-a5e9-c4da1350281c?version=1792798534353",
+      "price": "$31.81",
       "original": null,
       "discount": 0
     },
     {
-      "name": "1000 Worms",
-      "url": "https://throne.com/lunargabriel/item/086f7858-dc0d-465c-8017-30e12278faca",
-      "image": "https://m.media-amazon.com/images/I/815r81jXxtL._SY500_.jpg",
-      "price": "$58.40",
+      "name": "Deep Fryer",
+      "url": "https://throne.com/lunargabriel/item/fe2aa820-6d8d-4161-83a8-fd773a92358e",
+      "image": "https://m.media-amazon.com/images/I/71Xqu9Lq-OL._SY500_.jpg",
+      "price": "$77.16",
       "original": null,
       "discount": 0
     }
