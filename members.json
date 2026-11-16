@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:29:35.121836+00:00",
+  "updated": "2026-11-16T02:04:16.746318+00:00",
   "members": [
     {
       "name": "Ai",
@@ -1274,6 +1274,11 @@
           "platform": "discord",
           "label": "Discord",
           "url": "https://discord.gg/XGUZHC2AX5"
+        },
+        {
+          "platform": "website",
+          "label": "tedturtle21-shop.fourthwall.com",
+          "url": "https://tedturtle21-shop.fourthwall.com/"
         }
       ],
       "pronouns": "He/Him"
