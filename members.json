@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T02:04:16.746318+00:00",
+  "updated": "2026-11-16T02:14:17.067630+00:00",
   "members": [
     {
       "name": "Ai",
@@ -1269,6 +1269,11 @@
           "platform": "throne",
           "label": "Throne",
           "url": "https://throne.com/tedturtle21"
+        },
+        {
+          "platform": "kofi",
+          "label": "Ko-fi",
+          "url": "https://ko-fi.com/tedturtle21"
         },
         {
           "platform": "discord",
