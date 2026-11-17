@@ -1,20 +1,6 @@
 {
   "events": [
     {
-      "id": "58efad3e-20261116",
-      "game": "Project Zomboid",
-      "title": "Zomboid with the Squad!",
-      "kind": "collab",
-      "start": "2026-11-16T20:00:00-06:00",
-      "end": "2026-11-17T01:00:00-06:00",
-      "stickers": [
-        "stickers/Nimmy.png",
-        "stickers/Raye.png",
-        "stickers/Mr. P.png",
-        "stickers/Grave.png"
-      ]
-    },
-    {
       "id": "3a87d298-20261117",
       "game": "Left 4 Dead 2",
       "title": "More L4D2",
@@ -166,6 +152,20 @@
       "kind": "collab",
       "start": "2027-01-04T20:00:00-06:00",
       "end": "2027-01-05T01:00:00-06:00",
+      "stickers": [
+        "stickers/Nimmy.png",
+        "stickers/Raye.png",
+        "stickers/Mr. P.png",
+        "stickers/Grave.png"
+      ]
+    },
+    {
+      "id": "58efad3e-20270111",
+      "game": "Project Zomboid",
+      "title": "Zomboid with the Squad!",
+      "kind": "collab",
+      "start": "2027-01-11T20:00:00-06:00",
+      "end": "2027-01-12T01:00:00-06:00",
       "stickers": [
         "stickers/Nimmy.png",
         "stickers/Raye.png",
