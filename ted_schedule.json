@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T23:37:53.040859+00:00",
+  "updated": "2026-11-17T00:07:53.037805+00:00",
   "events": [
     {
       "start": "2026-11-18T00:00:00Z",
@@ -243,6 +243,13 @@
       "start": "2027-01-15T00:00:00Z",
       "game": "Milki Delivery",
       "title": "Making Friends and Milking Cows!",
+      "kind": "solo",
+      "stickers": []
+    },
+    {
+      "start": "2027-01-16T00:00:00Z",
+      "game": "Broke Wizards",
+      "title": "The Gremlin Squad is Trying to Make Rent With Maaaaagic!",
       "kind": "solo",
       "stickers": []
     }
