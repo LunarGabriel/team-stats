@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-17T22:07:52.858587+00:00",
+  "updated": "2026-11-18T22:37:52.858435+00:00",
   "totals": {
-    "twitch": 1849,
+    "twitch": 1850,
     "youtube": 205,
-    "bluesky": 601,
-    "twitter": 3329,
+    "bluesky": 602,
+    "twitter": 3331,
     "tiktok": 476,
-    "all": 6460
+    "all": 6464
   },
-  "growth_7d": 27,
+  "growth_7d": 18,
   "avg_twitch_viewers": 5,
   "avg_youtube_shorts_views": 309
 }
