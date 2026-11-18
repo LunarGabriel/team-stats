@@ -26,17 +26,6 @@
       ]
     },
     {
-      "id": "00422cd3-20261120",
-      "game": "Key We",
-      "title": "Becoming Kiwis",
-      "kind": "collab",
-      "start": "2026-11-20T20:30:00-06:00",
-      "end": "2026-11-20T22:30:00-06:00",
-      "stickers": [
-        "stickers/Nimmy.png"
-      ]
-    },
-    {
       "id": "42c680aa-20261121",
       "game": "Devour",
       "title": "Getting Devoured",
@@ -72,6 +61,17 @@
         "stickers/Septa.png",
         "stickers/Mr. P.png",
         "stickers/Lux.png"
+      ]
+    },
+    {
+      "id": "00422cd3-20261127",
+      "game": "Key We",
+      "title": "Becoming Kiwis",
+      "kind": "collab",
+      "start": "2026-11-27T20:30:00-06:00",
+      "end": "2026-11-27T22:30:00-06:00",
+      "stickers": [
+        "stickers/Nimmy.png"
       ]
     },
     {
