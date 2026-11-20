@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:01:09.476382+00:00",
+  "updated": "2026-11-20T05:01:29.841838+00:00",
   "categories": [
     "Drinkware",
     "Hoodies",
@@ -21,7 +21,7 @@
     {
       "slug": "ted",
       "name": "Ted",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
@@ -101,6 +101,17 @@
       "price": "$14.00",
       "link": "https://tedturtle21-shop.fourthwall.com/products/ted-turtle-mango-mug",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/74fe2337-da5dde.webp"
+    },
+    {
+      "id": "403df027",
+      "creator": "ted",
+      "creator_name": "Ted",
+      "category": "Drinkware",
+      "name": "Tressa Sippin Mug",
+      "description": "",
+      "price": "$14.00",
+      "link": "https://tedturtle21-shop.fourthwall.com/products/tressa-sippin-mug",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/403df027-05f386.webp"
     }
   ]
 }
