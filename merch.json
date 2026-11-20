@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:00:44.359444+00:00",
+  "updated": "2026-11-20T05:01:09.476382+00:00",
   "categories": [
     "Drinkware",
     "Hoodies",
@@ -21,7 +21,7 @@
     {
       "slug": "ted",
       "name": "Ted",
-      "count": 4
+      "count": 5
     }
   ],
   "items": [
@@ -90,6 +90,17 @@
       "price": "$12.13",
       "link": "https://tedturtle21-shop.fourthwall.com/products/why-so-salty-mousepad",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/3cd15013-08001e.webp"
+    },
+    {
+      "id": "74fe2337",
+      "creator": "ted",
+      "creator_name": "Ted",
+      "category": "Drinkware",
+      "name": "Ted Mango Mug",
+      "description": "",
+      "price": "$14.00",
+      "link": "https://tedturtle21-shop.fourthwall.com/products/ted-turtle-mango-mug",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/74fe2337-da5dde.webp"
     }
   ]
 }
