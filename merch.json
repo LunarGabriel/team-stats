@@ -1,8 +1,9 @@
 {
-  "updated": "2026-11-20T02:33:30.731072+00:00",
+  "updated": "2026-11-20T04:59:52.549147+00:00",
   "categories": [
     "Hoodies",
     "Mousepads",
+    "Pins",
     "Stickers"
   ],
   "creators": [
@@ -19,7 +20,7 @@
     {
       "slug": "ted",
       "name": "Ted",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
@@ -55,6 +56,17 @@
       "price": "$7.00",
       "link": "https://tedturtle21-shop.fourthwall.com/products/goblin-ted-turtle-sticker",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/d53c032f-73e9bc.webp"
+    },
+    {
+      "id": "2c9f024f",
+      "creator": "ted",
+      "creator_name": "Ted",
+      "category": "Pins",
+      "name": "Turtle Button Pack",
+      "description": "",
+      "price": "$12.00",
+      "link": "https://tedturtle21-shop.fourthwall.com/products/turtle-button-pack",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/2c9f024f-f88ccf.webp"
     }
   ]
 }
