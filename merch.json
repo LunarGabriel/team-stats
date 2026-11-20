@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:00:16.627394+00:00",
+  "updated": "2026-11-20T05:00:44.359444+00:00",
   "categories": [
     "Drinkware",
     "Hoodies",
@@ -21,7 +21,7 @@
     {
       "slug": "ted",
       "name": "Ted",
-      "count": 3
+      "count": 4
     }
   ],
   "items": [
@@ -79,6 +79,17 @@
       "price": "$23.95",
       "link": "https://tedturtle21-shop.fourthwall.com/products/goblin-ted-turtle-tumbler",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/c71e1bd5-c7577c.webp"
+    },
+    {
+      "id": "3cd15013",
+      "creator": "ted",
+      "creator_name": "Ted",
+      "category": "Mousepads",
+      "name": "Why So Salty Mousepad",
+      "description": "",
+      "price": "$12.13",
+      "link": "https://tedturtle21-shop.fourthwall.com/products/why-so-salty-mousepad",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/3cd15013-08001e.webp"
     }
   ]
 }
