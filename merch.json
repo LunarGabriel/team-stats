@@ -1,0 +1,26 @@
+{
+  "updated": "2026-11-20T02:13:40.446774+00:00",
+  "categories": [
+    "Hoodies"
+  ],
+  "creators": [
+    {
+      "slug": "lunar",
+      "name": "Lunar",
+      "count": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "de03ce00",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Hoodies",
+      "name": "Moon Angel Hoodie",
+      "description": "Sizes 2XS - 6XL Available",
+      "price": "$59.99",
+      "link": "https://ko-fi.com/s/dc59b458ee",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/de03ce00-158993.webp"
+    }
+  ]
+}
