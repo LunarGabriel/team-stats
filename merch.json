@@ -1,7 +1,8 @@
 {
-  "updated": "2026-11-20T05:02:33.061960+00:00",
+  "updated": "2026-11-20T05:02:55.703461+00:00",
   "categories": [
     "Drinkware",
+    "Hats & Beanies",
     "Hoodies",
     "Mousepads",
     "Pins",
@@ -17,7 +18,7 @@
     {
       "slug": "lunar",
       "name": "Lunar",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "ted",
@@ -69,6 +70,17 @@
       "price": "$17.99",
       "link": "https://ko-fi.com/s/e7f373be61",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/3f790539-08a768.webp"
+    },
+    {
+      "id": "8b076e5b",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Hats & Beanies",
+      "name": "Moon & Stars Beanie",
+      "description": "Perfect for cold weather!",
+      "price": "$15.99",
+      "link": "https://ko-fi.com/s/3aea00e381",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/8b076e5b-ae9b60.webp"
     },
     {
       "id": "d53c032f",
