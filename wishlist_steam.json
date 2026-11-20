@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:42:22.778303+00:00",
+  "updated": "2026-11-20T18:42:21.563386+00:00",
   "week": "2026-W47",
   "main_url": "https://store.steampowered.com/wishlist/id/LunarGabriel/",
   "total": 12,
@@ -31,7 +31,7 @@
     {
       "name": "The Blood of Dawnwalker",
       "url": "https://store.steampowered.com/app/3751260/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/0f02fbee77e36562f7ecbd0dac1382bb013ccd89/header_alt_assets_1.jpg?t=1795077053",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/0f02fbee77e36562f7ecbd0dac1382bb013ccd89/header_alt_assets_1.jpg?t=1795190297",
       "price": "$69.99",
       "original": null,
       "discount": 0
@@ -40,9 +40,9 @@
       "name": "The Outer Worlds 2",
       "url": "https://store.steampowered.com/app/1449110/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg?t=1794935549",
-      "price": "$69.99",
-      "original": null,
-      "discount": 0
+      "price": "$27.99",
+      "original": "$69.99",
+      "discount": 60
     },
     {
       "name": "The Thing: Remastered",
