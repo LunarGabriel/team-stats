@@ -1,9 +1,15 @@
 {
-  "updated": "2026-11-20T02:13:40.446774+00:00",
+  "updated": "2026-11-20T02:19:41.634371+00:00",
   "categories": [
-    "Hoodies"
+    "Hoodies",
+    "Mousepads"
   ],
   "creators": [
+    {
+      "slug": "grave",
+      "name": "Grave",
+      "count": 1
+    },
     {
       "slug": "lunar",
       "name": "Lunar",
@@ -11,6 +17,17 @@
     }
   ],
   "items": [
+    {
+      "id": "428d5a9e",
+      "creator": "grave",
+      "creator_name": "Grave",
+      "category": "Mousepads",
+      "name": "Desk Mat",
+      "description": "16\" x 32\"",
+      "price": "$20.00",
+      "link": "https://ko-fi.com/s/586f182a80",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/428d5a9e-109792.webp"
+    },
     {
       "id": "de03ce00",
       "creator": "lunar",
