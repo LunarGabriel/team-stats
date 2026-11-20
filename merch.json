@@ -1,6 +1,7 @@
 {
-  "updated": "2026-11-20T04:59:52.549147+00:00",
+  "updated": "2026-11-20T05:00:16.627394+00:00",
   "categories": [
+    "Drinkware",
     "Hoodies",
     "Mousepads",
     "Pins",
@@ -20,7 +21,7 @@
     {
       "slug": "ted",
       "name": "Ted",
-      "count": 2
+      "count": 3
     }
   ],
   "items": [
@@ -67,6 +68,17 @@
       "price": "$12.00",
       "link": "https://tedturtle21-shop.fourthwall.com/products/turtle-button-pack",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/2c9f024f-f88ccf.webp"
+    },
+    {
+      "id": "c71e1bd5",
+      "creator": "ted",
+      "creator_name": "Ted",
+      "category": "Drinkware",
+      "name": "Goblin Ted Tumbler",
+      "description": "",
+      "price": "$23.95",
+      "link": "https://tedturtle21-shop.fourthwall.com/products/goblin-ted-turtle-tumbler",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/c71e1bd5-c7577c.webp"
     }
   ]
 }
