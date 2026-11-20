@@ -1,10 +1,11 @@
 {
-  "updated": "2026-11-20T05:02:01.930951+00:00",
+  "updated": "2026-11-20T05:02:33.061960+00:00",
   "categories": [
     "Drinkware",
     "Hoodies",
     "Mousepads",
     "Pins",
+    "Shirts",
     "Stickers"
   ],
   "creators": [
@@ -16,7 +17,7 @@
     {
       "slug": "lunar",
       "name": "Lunar",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "ted",
@@ -57,6 +58,17 @@
       "price": "$59.99",
       "link": "https://ko-fi.com/s/dc59b458ee",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/de03ce00-158993.webp"
+    },
+    {
+      "id": "3f790539",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Shirts",
+      "name": "Lunar Waifu Shirt",
+      "description": "Sizes S - 4XL Available",
+      "price": "$17.99",
+      "link": "https://ko-fi.com/s/e7f373be61",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/3f790539-08a768.webp"
     },
     {
       "id": "d53c032f",
