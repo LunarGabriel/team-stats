@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:01:29.841838+00:00",
+  "updated": "2026-11-20T05:02:01.930951+00:00",
   "categories": [
     "Drinkware",
     "Hoodies",
@@ -11,7 +11,7 @@
     {
       "slug": "grave",
       "name": "Grave",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "lunar",
@@ -35,6 +35,17 @@
       "price": "$20.00",
       "link": "https://ko-fi.com/s/586f182a80",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/428d5a9e-109792.webp"
+    },
+    {
+      "id": "07ba1798",
+      "creator": "grave",
+      "creator_name": "Grave",
+      "category": "Drinkware",
+      "name": "Glass Mug",
+      "description": "For your drinking needs",
+      "price": "$15.00",
+      "link": "https://ko-fi.com/s/15cae59164",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/07ba1798-d91a1f.webp"
     },
     {
       "id": "de03ce00",
