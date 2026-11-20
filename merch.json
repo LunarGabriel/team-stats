@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:02:55.703461+00:00",
+  "updated": "2026-11-20T05:03:18.462064+00:00",
   "categories": [
     "Drinkware",
     "Hats & Beanies",
@@ -18,7 +18,7 @@
     {
       "slug": "lunar",
       "name": "Lunar",
-      "count": 3
+      "count": 4
     },
     {
       "slug": "ted",
@@ -81,6 +81,17 @@
       "price": "$15.99",
       "link": "https://ko-fi.com/s/3aea00e381",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/8b076e5b-ae9b60.webp"
+    },
+    {
+      "id": "d4561e3c",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Stickers",
+      "name": "Bingo Pride Stickers",
+      "description": "Choose from 10 different flags!",
+      "price": "$3.50",
+      "link": "https://ko-fi.com/s/395bf6c66d",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/d4561e3c-bf378a.webp"
     },
     {
       "id": "d53c032f",
