@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:03:18.462064+00:00",
+  "updated": "2026-11-20T05:03:54.822153+00:00",
   "categories": [
     "Drinkware",
     "Hats & Beanies",
@@ -18,7 +18,7 @@
     {
       "slug": "lunar",
       "name": "Lunar",
-      "count": 4
+      "count": 5
     },
     {
       "slug": "ted",
@@ -92,6 +92,17 @@
       "price": "$3.50",
       "link": "https://ko-fi.com/s/395bf6c66d",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/d4561e3c-bf378a.webp"
+    },
+    {
+      "id": "c07a4ab0",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Stickers",
+      "name": "Lunar Waifu Sticker",
+      "description": "Choose from 3 sizes!",
+      "price": "$3.50",
+      "link": "https://ko-fi.com/s/c3aee5cf05",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/c07a4ab0-d71d03.webp"
     },
     {
       "id": "d53c032f",
