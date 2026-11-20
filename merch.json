@@ -1,8 +1,9 @@
 {
-  "updated": "2026-11-20T02:19:41.634371+00:00",
+  "updated": "2026-11-20T02:33:30.731072+00:00",
   "categories": [
     "Hoodies",
-    "Mousepads"
+    "Mousepads",
+    "Stickers"
   ],
   "creators": [
     {
@@ -13,6 +14,11 @@
     {
       "slug": "lunar",
       "name": "Lunar",
+      "count": 1
+    },
+    {
+      "slug": "ted",
+      "name": "Ted",
       "count": 1
     }
   ],
@@ -38,6 +44,17 @@
       "price": "$59.99",
       "link": "https://ko-fi.com/s/dc59b458ee",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/de03ce00-158993.webp"
+    },
+    {
+      "id": "d53c032f",
+      "creator": "ted",
+      "creator_name": "Ted",
+      "category": "Stickers",
+      "name": "Goblin Ted Sticker",
+      "description": "",
+      "price": "$7.00",
+      "link": "https://tedturtle21-shop.fourthwall.com/products/goblin-ted-turtle-sticker",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/d53c032f-73e9bc.webp"
     }
   ]
 }
