@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T04:12:03.170719+00:00",
+  "updated": "2026-11-22T00:12:03.353460+00:00",
   "events": [
     {
       "start": "2026-11-25T00:00:00Z",
@@ -229,6 +229,13 @@
       "start": "2027-01-20T00:00:00Z",
       "game": "Milki Delivery",
       "title": "We Sell the Best Milk Here! Milki Says So!",
+      "kind": "solo",
+      "stickers": []
+    },
+    {
+      "start": "2027-01-21T00:00:00Z",
+      "game": "WendyQuest: Legend of the Four Corner Stones",
+      "title": "Are You Thristy For Sir Chicken or Frostyna?",
       "kind": "solo",
       "stickers": []
     }
