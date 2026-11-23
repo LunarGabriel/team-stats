@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:42:25.052856+00:00",
+  "updated": "2026-11-23T18:42:23.709997+00:00",
   "week": "2026-W48",
   "main_url": "https://store.steampowered.com/wishlist/id/LunarGabriel/",
   "total": 12,
@@ -24,17 +24,17 @@
       "name": "Halloween: The Game",
       "url": "https://store.steampowered.com/app/3219630/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1793124536",
-      "price": "$39.99",
-      "original": null,
-      "discount": 0
+      "price": "$31.99",
+      "original": "$39.99",
+      "discount": 20
     },
     {
       "name": "Detroit: Become Human",
       "url": "https://store.steampowered.com/app/1222140/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
-      "price": "$39.99",
-      "original": null,
-      "discount": 0
+      "price": "$3.99",
+      "original": "$39.99",
+      "discount": 90
     },
     {
       "name": "Low-Budget Repairs",
