@@ -1,54 +1,54 @@
 {
-  "updated": "2026-11-20T18:42:21.563386+00:00",
-  "week": "2026-W47",
+  "updated": "2026-11-23T12:42:25.052856+00:00",
+  "week": "2026-W48",
   "main_url": "https://store.steampowered.com/wishlist/id/LunarGabriel/",
   "total": 12,
   "items": [
     {
-      "name": "Ranger\u2019s Path: National Park Simulator",
-      "url": "https://store.steampowered.com/app/2502780/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2502780/d12c19a4a747604ac679cc83b5066de50f879b83/header.jpg?t=1794935809",
-      "price": "$19.99",
-      "original": null,
-      "discount": 0
-    },
-    {
-      "name": "Deep Dish Dungeon",
-      "url": "https://store.steampowered.com/app/2871520/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/d419781a38a9acf0603986aa86f02d9fd342cfab/header.jpg?t=1792486658",
+      "name": "Nomad Drive",
+      "url": "https://store.steampowered.com/app/2223980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg?t=1793667805",
       "price": "$14.99",
       "original": null,
       "discount": 0
     },
     {
-      "name": "Slay the Spire 2",
-      "url": "https://store.steampowered.com/app/2868840/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
-      "price": "$19.99",
-      "original": "$24.99",
-      "discount": 20
-    },
-    {
-      "name": "The Blood of Dawnwalker",
-      "url": "https://store.steampowered.com/app/3751260/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/0f02fbee77e36562f7ecbd0dac1382bb013ccd89/header_alt_assets_1.jpg?t=1795190297",
-      "price": "$69.99",
+      "name": "Broke Wizards",
+      "url": "https://store.steampowered.com/app/4398500/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398500/43e11d29439a010fa119de3277d5bd560c321166/header.jpg?t=1793196041",
+      "price": "$9.99",
       "original": null,
       "discount": 0
     },
     {
-      "name": "The Outer Worlds 2",
-      "url": "https://store.steampowered.com/app/1449110/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg?t=1794935549",
-      "price": "$27.99",
-      "original": "$69.99",
-      "discount": 60
+      "name": "Halloween: The Game",
+      "url": "https://store.steampowered.com/app/3219630/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1793124536",
+      "price": "$39.99",
+      "original": null,
+      "discount": 0
     },
     {
-      "name": "The Thing: Remastered",
-      "url": "https://store.steampowered.com/app/2958970/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958970/header.jpg?t=1773067625",
-      "price": "$29.99",
+      "name": "Detroit: Become Human",
+      "url": "https://store.steampowered.com/app/1222140/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "price": "$39.99",
+      "original": null,
+      "discount": 0
+    },
+    {
+      "name": "Low-Budget Repairs",
+      "url": "https://store.steampowered.com/app/3167920/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167920/57b4f6ca086f85b8d1de44de293095064e74f5f1/header_alt_assets_0.jpg?t=1795426926",
+      "price": "$19.99",
+      "original": null,
+      "discount": 0
+    },
+    {
+      "name": "Cheap Car Repair",
+      "url": "https://store.steampowered.com/app/2904040/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904040/dbcdc51dbc0aa6ef105eb6fef5f1f7f63aa17fa1/header.jpg?t=1794221475",
+      "price": "$19.69",
       "original": null,
       "discount": 0
     }
