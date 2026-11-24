@@ -1,7 +1,8 @@
 {
-  "updated": "2026-11-20T05:04:53.804382+00:00",
+  "updated": "2026-11-24T02:44:01.894219+00:00",
   "categories": [
     "Can Coozie",
+    "Candles",
     "Drinkware",
     "Hats & Beanies",
     "Hoodies",
@@ -19,7 +20,7 @@
     {
       "slug": "lunar",
       "name": "Lunar",
-      "count": 6
+      "count": 7
     },
     {
       "slug": "ted",
@@ -115,6 +116,17 @@
       "price": "$4.99",
       "link": "https://ko-fi.com/s/93f99a9b86",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/afeed912-24ba73.webp"
+    },
+    {
+      "id": "3f821216",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Candles",
+      "name": "Moon Angel Candle - 9oz",
+      "description": "Blackberry Vanilla Scented",
+      "price": "$16.99",
+      "link": "https://ko-fi.com/s/d4acc61188",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/3f821216-4e0e0c.webp"
     },
     {
       "id": "d53c032f",
