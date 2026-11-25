@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:44:01.894219+00:00",
+  "updated": "2026-11-25T20:12:57.716917+00:00",
   "categories": [
     "Can Coozie",
     "Candles",
@@ -20,7 +20,7 @@
     {
       "slug": "lunar",
       "name": "Lunar",
-      "count": 7
+      "count": 8
     },
     {
       "slug": "ted",
@@ -127,6 +127,17 @@
       "price": "$16.99",
       "link": "https://ko-fi.com/s/d4acc61188",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/3f821216-4e0e0c.webp"
+    },
+    {
+      "id": "c905fe0c",
+      "creator": "lunar",
+      "creator_name": "Lunar",
+      "category": "Shirts",
+      "name": "Lunar 3/4 Sleeve Waifu Shirt",
+      "description": "Sizes S - 2XL Available",
+      "price": "$17.99",
+      "link": "https://ko-fi.com/s/d2aafbc8c2",
+      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/merch/c905fe0c-c21d2d.webp"
     },
     {
       "id": "d53c032f",
