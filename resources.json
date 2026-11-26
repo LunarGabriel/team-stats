@@ -1,6 +1,793 @@
 {
-  "updated": "2026-11-25T03:02:55.910101+00:00",
+  "updated": "2026-11-26T17:20:16.758933+00:00",
   "resources": [
+    {
+      "name": "Simple Icon YCH Animation Base",
+      "creator": "",
+      "url": "https://vgen.co/PomPetit/product/simple-icon-ych-animation-base/4b382017-1cd0-492c-9f75-a3379551f522",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Art Bases"
+      ],
+      "shop": "VGen",
+      "posted": "2026-11-26T17:20:16.753429+00:00"
+    },
+    {
+      "name": "Rahura Composer -Free BGMs",
+      "creator": "",
+      "url": "https://vgen.co/RahuraComposer/shop",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Audio/BGM"
+      ],
+      "shop": "VGen",
+      "posted": "2026-11-26T17:20:16.753412+00:00"
+    },
+    {
+      "name": "Streamer Resources",
+      "creator": "",
+      "url": "https://xtiles.app/65b12c0d0469bd6bb6fa70bf",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites"
+      ],
+      "shop": "xtiles.app",
+      "posted": "2026-11-26T17:20:16.753394+00:00"
+    },
+    {
+      "name": "SiMonk0 - Lots of Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/szymonfurjan/shop",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753379+00:00"
+    },
+    {
+      "name": "Moon Panels Template",
+      "creator": "",
+      "url": "https://ko-fi.com/s/5111918259",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Panels/Badges/Etc"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753362+00:00"
+    },
+    {
+      "name": "Glass and Gradient Schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/e342c6f62a",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Schedules"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753347+00:00"
+    },
+    {
+      "name": "Gatcha Login Schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/e0ce20f45b",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Schedules"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753332+00:00"
+    },
+    {
+      "name": "Animated Cozy Room Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/2faf124502",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753315+00:00"
+    },
+    {
+      "name": "Spooky Hollow Schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/9b501454ef",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Schedules"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753298+00:00"
+    },
+    {
+      "name": "Pixel Game Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/f5dacb7500",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753282+00:00"
+    },
+    {
+      "name": "Nighty Night Model Frame Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/212a95d1c0",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753266+00:00"
+    },
+    {
+      "name": "Minime Schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/4158d33691",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Schedules"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753248+00:00"
+    },
+    {
+      "name": "Golden Night Model Frame Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/35151c6651",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753236+00:00"
+    },
+    {
+      "name": "Valentine's Model Frame Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/adfd0e8e70",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753219+00:00"
+    },
+    {
+      "name": "Spring Bun Model Frame Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/e44b1cc96e",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753203+00:00"
+    },
+    {
+      "name": "Cyberpunk Model Frame Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/6f513b7424",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753188+00:00"
+    },
+    {
+      "name": "Ghosty Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/4d2e60b489",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753172+00:00"
+    },
+    {
+      "name": "Heart Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/db90748d1d",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753156+00:00"
+    },
+    {
+      "name": "Turquise Twitch Panels",
+      "creator": "",
+      "url": "https://ko-fi.com/s/d28637c78a",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Panels/Badges/Etc"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753140+00:00"
+    },
+    {
+      "name": "Purple Twitch Panels",
+      "creator": "",
+      "url": "https://ko-fi.com/s/e05e422d5e",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Panels/Badges/Etc"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753125+00:00"
+    },
+    {
+      "name": "Colorful Twitch Panels",
+      "creator": "",
+      "url": "https://ko-fi.com/s/d53eac225d",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Panels/Badges/Etc"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753109+00:00"
+    },
+    {
+      "name": "Green Cat Ghost Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/68f53256bf",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753093+00:00"
+    },
+    {
+      "name": "Purple Cat Ghost Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/329dccfca1",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753077+00:00"
+    },
+    {
+      "name": "Orange Cat Ghost Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/a17754c162",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753060+00:00"
+    },
+    {
+      "name": "Blue Cat Ghost Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/1332b855c6",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753044+00:00"
+    },
+    {
+      "name": "Pink Cat Ghost Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/64610dc8f7",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753027+00:00"
+    },
+    {
+      "name": "White Cat Ghost Chat Widget",
+      "creator": "",
+      "url": "https://ko-fi.com/s/571fdc02a3",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.753011+00:00"
+    },
+    {
+      "name": "Sozaino - Lots of Overlays & Backgrounds",
+      "creator": "",
+      "url": "https://sozaino.site/",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Overlays/Backgrounds"
+      ],
+      "shop": "sozaino.site",
+      "posted": "2026-11-26T17:20:16.752991+00:00"
+    },
+    {
+      "name": "Rose Magic Overlay Set [Purple]",
+      "creator": "",
+      "url": "https://ko-fi.com/s/3a20eee93e",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752974+00:00"
+    },
+    {
+      "name": "Rose Magic Overlay Set [Pink]",
+      "creator": "",
+      "url": "https://ko-fi.com/s/894013ead2",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752956+00:00"
+    },
+    {
+      "name": "Rose Magic Overlay Set [Blue]",
+      "creator": "",
+      "url": "https://ko-fi.com/s/928934213d",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752940+00:00"
+    },
+    {
+      "name": "Rose Magic Overlay Set [Gold]",
+      "creator": "",
+      "url": "https://ko-fi.com/s/c3ef18977b",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752922+00:00"
+    },
+    {
+      "name": "AOMaterial - Lots of backgrounds & overlays!",
+      "creator": "",
+      "url": "https://aomaterial.com/",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Overlays/Backgrounds"
+      ],
+      "shop": "aomaterial.com",
+      "posted": "2026-11-26T17:20:16.752903+00:00"
+    },
+    {
+      "name": "Free Emotes",
+      "creator": "",
+      "url": "https://spiffiey.weebly.com/free-emotes.html",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Emotes"
+      ],
+      "shop": "spiffiey.weebly.com",
+      "posted": "2026-11-26T17:20:16.752885+00:00"
+    },
+    {
+      "name": "Suncarrds Website Templates",
+      "creator": "",
+      "url": "https://suncarrds.tumblr.com/tagged/carrd%20%3A%20sun",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites"
+      ],
+      "shop": "suncarrds.tumblr.com",
+      "posted": "2026-11-26T17:20:16.752867+00:00"
+    },
+    {
+      "name": "Moon Schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/00f084fdcf",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Schedules"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752851+00:00"
+    },
+    {
+      "name": "Cat Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/590a19d72c",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752835+00:00"
+    },
+    {
+      "name": "Phone Panels",
+      "creator": "",
+      "url": "https://ko-fi.com/s/8b3699d98a",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Panels/Badges/Etc"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752818+00:00"
+    },
+    {
+      "name": "Minimalist Summer Overlay",
+      "creator": "",
+      "url": "https://ko-fi.com/s/3ee5a50825",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752801+00:00"
+    },
+    {
+      "name": "Digital Journal Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/982f213aff",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752785+00:00"
+    },
+    {
+      "name": "Hanging Moon Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/a4290ded21",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752769+00:00"
+    },
+    {
+      "name": "Cyberchase Purple Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/8786d18849",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752752+00:00"
+    },
+    {
+      "name": "Cyberchase Green Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/b5c9c43ddf",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752735+00:00"
+    },
+    {
+      "name": "Duality Light Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/9115269d84",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752717+00:00"
+    },
+    {
+      "name": "Duality Dark Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/898c3a54f0",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752699+00:00"
+    },
+    {
+      "name": "Flan Fantasy Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/5c8cd44539",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752681+00:00"
+    },
+    {
+      "name": "Cinnamon Roll Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/4f85e58c84",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752662+00:00"
+    },
+    {
+      "name": "Iridescent Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/404281ce51",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752631+00:00"
+    },
+    {
+      "name": "Y2Kuromi Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/s/62f45f8b8e",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752613+00:00"
+    },
+    {
+      "name": "Overlay Packs",
+      "creator": "",
+      "url": "https://x.com/Hanami_ivt/status/1655862655557484544",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "X",
+      "posted": "2026-11-26T17:20:16.752595+00:00"
+    },
+    {
+      "name": "Heart Stinger",
+      "creator": "",
+      "url": "https://ko-fi.com/s/159550f60a",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Stinger/Scene Transitions"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752579+00:00"
+    },
+    {
+      "name": "Circle Stinger",
+      "creator": "",
+      "url": "https://ko-fi.com/s/607f44ffe8",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Stinger/Scene Transitions"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752562+00:00"
+    },
+    {
+      "name": "Froggy Stinger Transition",
+      "creator": "",
+      "url": "https://ko-fi.com/s/9368b11ed9",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Stinger/Scene Transitions"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752550+00:00"
+    },
+    {
+      "name": "WitchMoon - OBS Theme",
+      "creator": "",
+      "url": "https://ko-fi.com/s/9368b11ed9",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752532+00:00"
+    },
+    {
+      "name": "GothEmo Pink \u2013 Free OBS Theme",
+      "creator": "",
+      "url": "https://ko-fi.com/s/f89c11bf88",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Plugins/Widgets"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752516+00:00"
+    },
+    {
+      "name": "Bee theme overlay set + schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/9545b8dbdb",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752500+00:00"
+    },
+    {
+      "name": "Retro Overlay Set",
+      "creator": "",
+      "url": "https://ko-fi.com/s/2377c62f51",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752484+00:00"
+    },
+    {
+      "name": "Gradient Schedule",
+      "creator": "",
+      "url": "https://ko-fi.com/s/2252ee1f89",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752467+00:00"
+    },
+    {
+      "name": "Animated Gradient Background Bundle",
+      "creator": "",
+      "url": "https://ko-fi.com/s/cd3324fc04",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752451+00:00"
+    },
+    {
+      "name": "Spooky Background Bundle",
+      "creator": "",
+      "url": "https://ko-fi.com/s/1a4ce68c28",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752433+00:00"
+    },
+    {
+      "name": "Christmas Animated Background",
+      "creator": "",
+      "url": "https://ko-fi.com/s/77a0565700",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752416+00:00"
+    },
+    {
+      "name": "Deep Space - Animated Background",
+      "creator": "",
+      "url": "https://ko-fi.com/s/cac87969a4",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752397+00:00"
+    },
+    {
+      "name": "Zenith - Stream Packages & Overlays",
+      "creator": "",
+      "url": "https://ko-fi.com/tragicheroine/shop",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752377+00:00"
+    },
+    {
+      "name": "OrihimeVT - Overlays & Schedules",
+      "creator": "",
+      "url": "https://ko-fi.com/orihimevt/shop",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Overlays/Backgrounds"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752353+00:00"
+    },
+    {
+      "name": "Stream Cafe - Lots of Free BGMs",
+      "creator": "",
+      "url": "https://ko-fi.com/streamcafemusic",
+      "image": "",
+      "image_alt": "",
+      "tags": [
+        "Shops/Websites",
+        "Audio/BGM"
+      ],
+      "shop": "Ko-fi",
+      "posted": "2026-11-26T17:20:16.752317+00:00"
+    },
     {
       "name": "Collage Maker - Easily make collab thumbnails!",
       "creator": "",
@@ -111,13 +898,13 @@
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1562178778858258472.png?v=1795575509",
       "image_alt": "",
       "tags": [
-        "Free Assets"
+        "Model Assets"
       ],
       "shop": "Ko-fi",
       "posted": "2026-10-20T19:00:44.758000+00:00"
     },
     {
-      "name": "Palworld VTuber Assets!",
+      "name": "Palworld Live2D Asset",
       "creator": "",
       "url": "https://ko-fi.com/s/6979365cbe",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1524989198447153232.jpg?v=1795575512",
@@ -194,14 +981,13 @@
     {
       "name": "Free Content Editing Pack for Premier Pro",
       "creator": "",
-      "url": "https://x.com/xSaandi/status/2038984406073807358?s=20",
+      "url": "https://xsaandipresets.com/products/free-content-editing-pack",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1488992721199829132.webp?v=1795575503",
       "image_alt": "",
       "tags": [
-        "Free Assets",
         "Editing Tools"
       ],
-      "shop": "X",
+      "shop": "xsaandipresets.com",
       "posted": "2026-04-01T20:05:28.881000+00:00"
     },
     {
@@ -688,29 +1474,16 @@
       "posted": "2025-10-20T21:09:55.696000+00:00"
     },
     {
-      "name": "HOLLOW KNIGHT-STYLE CUSTOMIZABLE MODEL",
-      "creator": "",
-      "url": "https://ko-fi.com/s/48ad3bcdaa",
-      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1414762844095774802.png?v=1795575583",
-      "image_alt": "",
-      "tags": [
-        "Live2D",
-        "Customizable Models"
-      ],
-      "shop": "Ko-fi",
-      "posted": "2025-09-09T00:02:27.055000+00:00"
-    },
-    {
       "name": "Customizable Shrimp Model",
       "creator": "",
-      "url": "https://x.com/Kharo_jpeg/status/1963964190265090099",
+      "url": "https://ko-fi.com/s/1951b5e6ca",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1413587953346674840.webp?v=1795575575",
       "image_alt": "",
       "tags": [
         "Live2D",
         "Customizable Models"
       ],
-      "shop": "X",
+      "shop": "Ko-fi",
       "posted": "2025-09-05T18:13:51.272000+00:00"
     },
     {
@@ -724,32 +1497,6 @@
       ],
       "shop": "VGen",
       "posted": "2025-09-05T00:56:03.684000+00:00"
-    },
-    {
-      "name": "Customizable \"Cat Villager\" Model",
-      "creator": "",
-      "url": "https://vgen.co/cypurrpunk/product/customizable-cat-villager-2d-vtuber-model/d8fc15a6-8686-4a70-95ca-0e7d4960b0a0",
-      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1412498509675888700.webp?v=1795575566",
-      "image_alt": "",
-      "tags": [
-        "Live2D",
-        "Customizable Models"
-      ],
-      "shop": "VGen",
-      "posted": "2025-09-02T18:04:47.660000+00:00"
-    },
-    {
-      "name": "Customizable Hollow Knight Vtuber Model!",
-      "creator": "",
-      "url": "https://ko-fi.com/s/6cbd648699?published=true#shareNewShopItemModal",
-      "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1412498233313329373.png?v=1795575571",
-      "image_alt": "",
-      "tags": [
-        "Live2D",
-        "Customizable Models"
-      ],
-      "shop": "Ko-fi",
-      "posted": "2025-09-02T18:03:41.770000+00:00"
     },
     {
       "name": "VTS terminal - New VTubeStudio Plugin",
@@ -801,19 +1548,6 @@
       ],
       "shop": "Ko-fi",
       "posted": "2025-05-12T09:15:16.328000+00:00"
-    },
-    {
-      "name": "Customizable Bunny GIFTuber",
-      "creator": "",
-      "url": "https://ko-fi.com/s/b138b34360",
-      "image": "https://images-ext-1.discordapp.net/external/k_LddonOYwIEZ6ZbyWsPFCoS4xfom7rZFmtSIPOF2MA/https/storage.ko-fi.com/cdn/useruploads/post/37726152-7224-43c6-8d47-9097a27e5c21_designsemnome9.gif",
-      "image_alt": "",
-      "tags": [
-        "PNGTuber",
-        "Customizable Models"
-      ],
-      "shop": "Ko-fi",
-      "posted": "2025-05-04T20:08:19.773000+00:00"
     },
     {
       "name": "PNGTuberRemix",
@@ -882,7 +1616,7 @@
       "posted": "2025-01-25T02:43:53.366000+00:00"
     },
     {
-      "name": "More VRM Rats",
+      "name": "VRM Rats",
       "creator": "",
       "url": "https://booth.pm/en/items/5535938",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1332541201571905597.jpg?v=1795575656",
@@ -1080,7 +1814,7 @@
     {
       "name": "Free Live2D Depresso Model",
       "creator": "",
-      "url": "https://x.com/toffeevt/status/1758265945858904290?s=46&t=8rfkKrg-Tln0AojUj0_pUg",
+      "url": "https://ko-fi.com/s/2dd312e29e",
       "image": "https://raw.githubusercontent.com/LunarGabriel/team-stats/main/resource_images/1209876185350279279.png?v=1795575673",
       "image_alt": "",
       "tags": [
@@ -1088,7 +1822,7 @@
         "Free Models",
         "Free Assets"
       ],
-      "shop": "X",
+      "shop": "Ko-fi",
       "posted": "2024-02-21T14:56:01+00:00"
     },
     {
