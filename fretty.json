@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:42:03.183982+00:00",
+  "updated": "2026-11-27T01:12:03.231282+00:00",
   "totals": {
     "twitch": 1187,
     "youtube": 185,
@@ -8,7 +8,7 @@
     "tiktok": 562,
     "all": 3156
   },
-  "growth_7d": 3,
+  "growth_7d": 2,
   "avg_twitch_viewers": 3,
   "avg_youtube_shorts_views": 590
 }
